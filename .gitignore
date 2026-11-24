@@ -1,0 +1,7 @@
+/build/
+/bin/
+*.o
+*.csv
+.DS_Store
+.vscode/
+.idea/

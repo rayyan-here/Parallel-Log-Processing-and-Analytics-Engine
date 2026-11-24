@@ -1,0 +1,9 @@
+[INFO] service started
+[WARNING] FAILED_LOGIN user="lab user"
+[ERROR] FAILED_LOGIN
+[INFO] worker ready
+[ERROR] FAILED_LOGIN user='lab user'
+[WARNING] FAILED_LOGIN user=""
+[ERROR] FAILED_LOGIN user="lab user" ip=192.0.2.22
+[ERROR] FAILED_LOGIN
+[INFO] service stopped

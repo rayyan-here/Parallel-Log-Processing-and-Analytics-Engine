@@ -1,0 +1,24 @@
+09:00:00 [INFO] service started
+09:00:01 [ERROR] FAILED_LOGIN user=ali ip=192.0.2.10
+09:00:02 [INFO] request complete
+09:00:03 [WARNING] queue depth elevated
+09:00:04 [ERROR] FAILED_LOGIN user=sara ip=192.0.2.11
+09:00:05 [INFO] worker ready
+09:00:06 [WARNING] FAILED_LOGIN ip=198.51.100.7
+09:00:07 [DEBUG] heartbeat
+09:00:08 [INFO] request complete
+09:00:09 [ERROR] FAILED_LOGIN user=ali ip=192.0.2.15
+09:00:10 [INFO] cache refreshed
+09:00:11 [WARNING] disk space low
+09:00:12 [ERROR] FAILED_LOGIN ip=198.51.100.7
+09:00:13 [INFO] user=ali session started
+09:00:14 [ERROR] connection reset
+09:00:15 [INFO] backup started
+09:00:16 [WARNING] FAILED_LOGIN user=sara ip=192.0.2.11
+09:00:17 [INFO] backup complete
+09:00:18 [ERROR] FAILED_LOGIN user=ali ip=192.0.2.19
+09:00:19 [TRACE] heartbeat
+09:00:20 [WARNING] FAILED_LOGIN ip=198.51.100.7
+09:00:21 [INFO] user logout
+09:00:22 [ERROR] FAILED_LOGIN missing identity
+09:00:23 [INFO] service stopped
